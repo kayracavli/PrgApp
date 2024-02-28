@@ -1,0 +1,14 @@
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\bin\Debug\net8.0\PrgApp.exe
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\bin\Debug\net8.0\PrgApp.deps.json
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\bin\Debug\net8.0\PrgApp.runtimeconfig.json
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\bin\Debug\net8.0\PrgApp.dll
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\bin\Debug\net8.0\PrgApp.pdb
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\obj\Debug\net8.0\PrgApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\obj\Debug\net8.0\PrgApp.AssemblyInfoInputs.cache
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\obj\Debug\net8.0\PrgApp.AssemblyInfo.cs
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\obj\Debug\net8.0\PrgApp.csproj.CoreCompileInputs.cache
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\obj\Debug\net8.0\PrgApp.dll
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\obj\Debug\net8.0\refint\PrgApp.dll
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\obj\Debug\net8.0\PrgApp.pdb
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\obj\Debug\net8.0\PrgApp.genruntimeconfig.cache
+C:\Users\TeknikDonanim2022\Desktop\PrgApp\obj\Debug\net8.0\ref\PrgApp.dll
